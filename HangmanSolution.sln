@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{0C5FFD2C-6D0B-4467-A2E8-5B117284B2C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game", "Game\Game.csproj", "{9B1F79DC-F3AC-4D13-8993-83B930A715C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Words", "Words\Words.csproj", "{22FC6B00-666A-449F-A2C3-6E01EE12F956}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C5FFD2C-6D0B-4467-A2E8-5B117284B2C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C5FFD2C-6D0B-4467-A2E8-5B117284B2C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C5FFD2C-6D0B-4467-A2E8-5B117284B2C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C5FFD2C-6D0B-4467-A2E8-5B117284B2C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B1F79DC-F3AC-4D13-8993-83B930A715C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B1F79DC-F3AC-4D13-8993-83B930A715C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B1F79DC-F3AC-4D13-8993-83B930A715C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B1F79DC-F3AC-4D13-8993-83B930A715C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22FC6B00-666A-449F-A2C3-6E01EE12F956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22FC6B00-666A-449F-A2C3-6E01EE12F956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22FC6B00-666A-449F-A2C3-6E01EE12F956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22FC6B00-666A-449F-A2C3-6E01EE12F956}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
